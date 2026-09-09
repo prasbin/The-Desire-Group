@@ -1,0 +1,15 @@
+<svg width="760" height="190" viewBox="0 0 760 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="190" fill="#F6F4EF"/>
+  <g transform="translate(18 18)">
+    <path d="M0 10H54C91 10 112 29 112 66C112 103 91 122 54 122H0V10Z" stroke="#202725" stroke-width="10"/>
+    <path d="M12 29V103H47C71 103 87 91 87 66C87 41 71 29 47 29H12Z" fill="#F6F4EF"/>
+    <path d="M69 10H124C153 10 169 25 169 51C169 67 162 79 150 86L174 122H139L120 93H103V122H69V10ZM103 35V68H117C129 68 135 62 135 51C135 40 129 35 117 35H103Z" fill="#C82026"/>
+    <path d="M0 140H174" stroke="#C82026" stroke-width="4"/>
+    <text x="2" y="157" fill="#202725" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="3.2">COMPLETE BATH SOLUTION</text>
+  </g>
+  <path d="M220 24V166" stroke="#202725" stroke-width="2"/>
+  <text x="252" y="94" fill="#202725" font-family="Arial, sans-serif" font-size="47" font-weight="700" letter-spacing="5">DESIRE</text>
+  <text x="252" y="139" fill="#C82026" font-family="Arial, sans-serif" font-size="38" font-weight="400" letter-spacing="8">GROUP</text>
+  <circle cx="709" cy="128" r="19" fill="#C82026"/>
+  <path d="M700 128H718M709 119V137" stroke="#F6F4EF" stroke-width="2"/>
+</svg>
